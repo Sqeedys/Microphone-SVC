@@ -1,0 +1,37 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "microphone:crafting_enabled"
+    }
+  ],
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_copper": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:copper_ingot"
+          }
+        ]
+      }
+    },
+    "has_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipes": "microphone:microphone"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_copper",
+      "has_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "microphone:microphone"
+    ]
+  }
+}

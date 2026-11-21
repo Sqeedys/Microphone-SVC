@@ -1,0 +1,9 @@
+{
+  "item.microphone.microphone": "Microphone",
+  "message.microphone.range": "Microphone range: %s blocks",
+  "message.microphone.on": "Microphone on (%s blocks)",
+  "message.microphone.off": "Microphone off",
+  "message.microphone.voice_unavailable": "Connect and enable Simple Voice Chat to use the microphone.",
+  "message.microphone.leave_group": "Leave your voice group to amplify proximity voice.",
+  "message.microphone.handheld_disabled": "Handheld amplification is disabled on this server."
+}

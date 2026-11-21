@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "id": "microphone_fixture",
+  "version": "0.1.0",
+  "name": "Microphone Loopback Test Fixture",
+  "environment": "server",
+  "entrypoints": {
+    "server": ["dev.sqeedys.microphone.tests.VoiceTestFixture"],
+    "voicechat": ["dev.sqeedys.microphone.tests.VoiceTestFixture"]
+  },
+  "depends": {
+    "microphone": "0.2.0"
+  }
+}

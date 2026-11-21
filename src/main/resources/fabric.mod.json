@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "microphone",
+  "version": "0.2.0",
+  "name": "Microphone! (Simple Voice Chat)",
+  "description": "Craft a microphone to project proximity voice, or run staff announcements and moderate voice at events.",
+  "authors": [
+    "Sqeedys"
+  ],
+  "license": "MIT",
+  "icon": "assets/microphone/icon.png",
+  "environment": "*",
+  "contact": {
+    "sources": "https://github.com/Sqeedys/Microphone-SVC",
+    "issues": "https://github.com/Sqeedys/Microphone-SVC/issues",
+    "homepage": "https://sqeedys.com/mods",
+    "youtube": "https://www.youtube.com/@Sqeedys"
+  },
+  "entrypoints": {
+    "main": [
+      "dev.sqeedys.microphone.Microphone"
+    ]
+  },
+  "mixins": [
+    "microphone.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.20.1",
+    "fabric-api": ">=0.165.2",
+    "minecraft": "26.3",
+    "java": ">=25",
+    "voicechat": "2.6.27+26.3"
+  },
+  "custom": {
+    "upstream": {
+      "Simple Voice Chat": "https://github.com/henkelmax/simple-voice-chat",
+      "Simple Voice Chat project": "https://modrinth.com/plugin/simple-voice-chat"
+    }
+  }
+}

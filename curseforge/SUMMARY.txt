@@ -1,0 +1,1 @@
+Craft a handheld microphone with four adjustable voice ranges for Simple Voice Chat. Staff can host local or server-wide announcements and moderate the audience.
