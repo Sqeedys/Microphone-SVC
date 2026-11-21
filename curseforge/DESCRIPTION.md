@@ -18,6 +18,4 @@ At a crafting table, put a copper ingot in the top middle, iron–redstone dust�
 
 Install Microphone!, Fabric API **0.165.2+26.3**, and Simple Voice Chat **2.6.27+26.3** on the server **and every client**. Use Minecraft Java **26.3**, Java **25**, and Fabric Loader **0.20.1**. [Simple Voice Chat dependency](https://modrinth.com/plugin/simple-voice-chat/version/x9jLR94Q) · [Setup and commands](https://github.com/Sqeedys/Microphone-SVC)
 
-The project icon is an AI-generated illustration. The microphone itself uses an original 16 × 16 pixel texture.
-
 Created by **Sqeedys**. [More mods](https://sqeedys.com/mods) · [YouTube @Sqeedys](https://www.youtube.com/@Sqeedys)

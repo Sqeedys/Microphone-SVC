@@ -1,4 +1,4 @@
-<img src="curseforge/logo.png" alt="A teal handheld microphone with a silver grille" width="112" align="right">
+<img src="curseforge/logo.png" alt="Voicechat Microphone, with the craftable microphone and two sound waves" width="112" align="right">
 
 # Microphone! (Simple Voice Chat)
 
@@ -25,8 +25,6 @@ Use one copper ingot, three iron ingots and one redstone dust in a crafting tabl
 **Right-click** with the mic in either hand to switch it on or off. **Sneak + right-click** to cycle **64 → 128 → 192 → 256 blocks**. The action bar shows your selection. Speak normally or use your usual push-to-talk key. Putting the mic away switches it off, and the item remembers its range.
 
 These settings change how far other players can hear you. Sound fades over distance, and listeners keep their personal volume controls. Whisper and group conversations use Simple Voice Chat's normal routing. Ordinary voice defaults to 48 blocks upstream. [Simple Voice Chat settings](https://modrepo.de/minecraft/voicechat/wiki/server_config)
-
-<img src="curseforge/in-hand.png" width="500" alt="The microphone held in first person on a small outdoor stage in Minecraft 26.3">
 
 ## Server owners
 
