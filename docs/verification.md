@@ -16,7 +16,7 @@ The UDP tests measure packet delivery and range. Audible quality through headset
 
 ## Project icon refresh
 
-The [current download checksum](../downloads/SHA256SUMS.txt) records the refreshed JARâ€™s SHA-256, `aaa7c87cddb6e6e26d5df909121c4f9907a7e9f73f7b135749fe06b81d80ce48`. Two builds with Temurin 25.0.5+8 and Python 3.13.14 passed the Java suites and produced byte-identical JARs. Comparing the original and refreshed JARs found one changed entry, `assets/microphone/icon.png`. All 23 other entries had identical contents, including the Java classes and in-game item texture. The native voice and client render results above cover the original JAR.
+The [current download checksum](../downloads/SHA256SUMS.txt) records the refreshed JAR’s SHA-256, `27d0b1e2f3c7f771ed73bc1af6497786f1cf162feae938078672e75fd20de445`. Two builds with Temurin 25.0.5+8 and Python 3.13.14 passed the Java suites and produced byte-identical JARs. Comparing the original and refreshed JARs found one changed entry, `assets/microphone/icon.png`. All 23 other entries had identical contents, including the Java classes and in-game item texture. The native voice and client render results above cover the original JAR.
 
 ## Repeat the voice tests
 
